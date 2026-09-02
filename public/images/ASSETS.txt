@@ -1,0 +1,33 @@
+Hangar Fly Residence — Image assets
+===================================
+
+Replace these files with real photography of the development.
+Keep the same filenames (or update src/content.ts).
+
+Recommended:
+  hero.jpg           2400x1600+  cinematic aircraft / hangar / aerial
+  experiencia.jpg    2000x1300   aircraft + hangar atmosphere
+  hangar.jpg         2000x1300   high-end hangar
+  pista.jpg          2000x1300   runway
+  aeronave.jpg       1800x1200   executive / light aircraft
+  arquitetura.jpg    1800x1200   contemporary architecture
+  aerea.jpg          2000x1300   aerial view
+  por-do-sol.jpg     2000x1300   sunset over runway / landscape
+  paisagem.jpg       1800x1200   Vale do Sao Francisco landscape
+  rio.jpg            1800x1200   river / valley
+  lote.jpg           1800x1200   lot / architectural volume
+  interior.jpg       1600x1200   sophisticated hangar interior
+  asa.jpg            1800x1200   wing / in-flight
+  cta.jpg            2200x1400   dusk aircraft / hangar
+  night.jpg          2200x1400   dusk / night aviation
+  vale.jpg           1800x1200   hinterland / valley
+  luxury-arch.jpg    1800x1200   luxury architecture
+  contemporaneo.jpg  1800x1200   contemporary volume
+  desert.jpg         1800x1200   dry landscape
+  sky.jpg            2000x1300   sky / aircraft
+  water.jpg          1800x1200   water landscape
+  jet.jpg            1800x1200   aircraft
+  concrete.jpg       1600x1200   material / architecture
+
+gallery/01.jpg … gallery/12.jpg
+  Asymmetric catalog. Prefer real photos of SDC4, hangars, taxiway, lots.
