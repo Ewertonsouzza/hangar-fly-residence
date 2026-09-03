@@ -31,12 +31,6 @@ export function Empreendimento() {
               {copy.empreendimentoBody}
             </p>
           </Reveal>
-          <Reveal delay={2} className="mt-10">
-            <div className="h-px w-16 bg-[#c4a574]/50" />
-            <p className="mt-6 max-w-[34rem] text-[0.78rem] leading-relaxed tracking-wide text-[#8a8680]">
-              {copy.empreendimentoNote}
-            </p>
-          </Reveal>
         </div>
       </div>
     </section>

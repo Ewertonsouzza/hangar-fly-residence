@@ -25,19 +25,19 @@ export const images = {
   hangar: '/images/hangar.jpg',
   pista: '/images/pista.jpg',
   aeronave: '/images/aeronave.jpg',
-  arquitetura: '/images/arquitetura.jpg',
+  arquitetura: '/images/arquitetura.jpg?v=2',
   aerea: '/images/aerea.jpg',
   porDoSol: '/images/por-do-sol.jpg',
   paisagem: '/images/paisagem.jpg',
   rio: '/images/rio.jpg',
-  lote: '/images/lote.jpg',
-  interior: '/images/interior.jpg',
+  lote: '/images/lote.jpg?v=2',
+  interior: '/images/interior.jpg?v=2',
   asa: '/images/asa.jpg',
   cta: '/images/cta.jpg',
   night: '/images/night.jpg',
   vale: '/images/vale.jpg',
   luxuryArch: '/images/luxury-arch.jpg',
-  contemporaneo: '/images/contemporaneo.jpg',
+  contemporaneo: '/images/contemporaneo.jpg?v=2',
   desert: '/images/desert.jpg',
   sky: '/images/sky.jpg',
   water: '/images/water.jpg',
@@ -47,63 +47,33 @@ export const images = {
 
 export const gallery = [
   {
-    src: '/images/gallery/01.jpg',
-    alt: 'Aeronave em voo sobre horizonte aberto',
+    src: '/images/gallery/01.jpg?v=2',
+    alt: 'Helicóptero na pista ao entardecer',
     span: 'wide' as const,
   },
   {
-    src: '/images/gallery/02.jpg',
-    alt: 'Aeronave em ambiente de aeródromo',
+    src: '/images/gallery/02.jpg?v=2',
+    alt: 'Aeronave bimotor e helicóptero na pista',
     span: 'tall' as const,
   },
   {
-    src: '/images/gallery/03.jpg',
-    alt: 'Vista aérea cinematográfica',
+    src: '/images/gallery/03.jpg?v=2',
+    alt: 'Aeronave bimotor na pista sob céu azul',
+    span: 'square' as const,
+  },
+  {
+    src: '/images/gallery/04.jpg?v=2',
+    alt: 'Helicóptero em frente ao hangar',
+    span: 'square' as const,
+  },
+  {
+    src: '/images/gallery/05.jpg?v=2',
+    alt: 'Aeronave leve no interior do hangar',
     span: 'wide' as const,
-  },
-  {
-    src: '/images/gallery/04.jpg',
-    alt: 'Pista e aeronave ao entardecer',
-    span: 'square' as const,
-  },
-  {
-    src: '/images/gallery/05.jpg',
-    alt: 'Arquitetura contemporânea de alto padrão',
-    span: 'square' as const,
   },
   {
     src: '/images/gallery/06.jpg',
     alt: 'Asa de aeronave sobre as nuvens',
-    span: 'wide' as const,
-  },
-  {
-    src: '/images/gallery/07.jpg',
-    alt: 'Volume arquitetônico contemporâneo',
-    span: 'tall' as const,
-  },
-  {
-    src: '/images/gallery/08.jpg',
-    alt: 'Pôr do sol sobre a paisagem',
-    span: 'wide' as const,
-  },
-  {
-    src: '/images/gallery/09.jpg',
-    alt: 'Interior sofisticado de referência',
-    span: 'square' as const,
-  },
-  {
-    src: '/images/gallery/10.jpg',
-    alt: 'Horizonte do sertão e do Vale',
-    span: 'square' as const,
-  },
-  {
-    src: '/images/gallery/11.jpg',
-    alt: 'Espelho d’água e vegetação',
-    span: 'wide' as const,
-  },
-  {
-    src: '/images/gallery/12.jpg',
-    alt: 'Linhas contemporâneas de arquitetura',
     span: 'square' as const,
   },
 ]
@@ -128,8 +98,6 @@ export const copy = {
     'O Hangar Fly Residence nasce em Petrolina como um condomínio aeronáutico: lotes destinados à construção de hangares residenciais, em um ambiente pensado para a aviação privada.',
   empreendimentoBody:
     'Aqui, o espaço não é apenas técnico. É um endereço — um lugar onde a aeronave permanece, o projeto se realiza e a rotina de voar ganha privacidade, ordem e prestígio.',
-  empreendimentoNote:
-    'Informações comerciais disponíveis publicamente indicam lotes de 500 m² e infraestrutura relacionada a pista, taxiway e abastecimento. Detalhes complementares são apresentados sob consulta.',
 
   experienciaKicker: 'A Experiência',
   experienciaHeadline: 'Seu avião. Seu espaço. Sua liberdade.',

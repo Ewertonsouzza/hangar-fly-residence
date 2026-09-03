@@ -32,21 +32,21 @@ export function Lotes() {
             <div className="img-zoom col-span-2 aspect-[16/9]">
               <img
                 src={images.lote}
-                alt="Volume arquitetônico contemporâneo, referência para hangares residenciais"
+                alt="Área de estar do hangar residencial"
                 className="h-full w-full object-cover"
               />
             </div>
             <div className="img-zoom aspect-[4/5]">
               <img
                 src={images.interior}
-                alt="Interior sofisticado de referência para espaços de alto padrão"
+                alt="Cozinha e interior do hangar residencial"
                 className="h-full w-full object-cover"
               />
             </div>
             <div className="img-zoom aspect-[4/5]">
               <img
                 src={images.contemporaneo}
-                alt="Linhas contemporâneas de arquitetura residencial"
+                alt="Lounge do hangar residencial"
                 className="h-full w-full object-cover"
               />
             </div>

@@ -29,5 +29,5 @@ Recommended:
   jet.jpg            1800x1200   aircraft
   concrete.jpg       1600x1200   material / architecture
 
-gallery/01.jpg … gallery/12.jpg
+gallery/01.jpg … gallery/06.jpg
   Asymmetric catalog. Prefer real photos of SDC4, hangars, taxiway, lots.
